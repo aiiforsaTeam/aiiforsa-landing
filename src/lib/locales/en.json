@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Features",
+    "forUsers": "For Users",
+    "forBusiness": "For Business",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "cta": {
+    "getStarted": "Get Started",
+    "dashboard": "Go to Dashboard"
+  },
+  "announcement": {
+    "text": "🎉 Visit us at CSTAM 2024 - Barceló Concorde Green Park Palace, Sousse - November 23rd",
+    "cta": "Learn More"
+  },
+  "search": {
+    "placeholder": "Search for jobs, companies, or skills...",
+    "searching": "Searching..."
+  },
+  "hero": {
+    "title": "Transform Your Career with AI",
+    "subtitle": "AiiForsa uses advanced AI to match you with perfect job opportunities and help businesses find top talent.",
+    "primaryCta": "Get Started Free",
+    "secondaryCta": "Book Demo",
+    "badge": "AI-Powered Career Intelligence",
+    "stats": {
+      "users": "Beta Users",
+      "matches": "Early Access",
+      "satisfaction": "In Development"
+    }
+  },
+  "features": {
+    "title": "Powerful Features for Everyone",
+    "subtitle": "Everything you need to succeed in your career journey",
+    "description": "Our comprehensive suite of AI-powered tools helps you navigate your career journey with confidence and precision.",
+    "items": {
+      "aiMatching": {
+        "title": "AI-Powered Matching",
+        "description": "Our AI analyzes your skills and matches you with the perfect opportunities"
+      },
+      "cvOptimization": {
+        "title": "CV Optimization",
+        "description": "Get real-time feedback and suggestions to improve your resume"
+      },
+      "careerAdvice": {
+        "title": "Career Advice",
+        "description": "Receive personalized career guidance from our AI advisor"
+      },
+      "jobAlerts": {
+        "title": "Smart Job Alerts",
+        "description": "Never miss an opportunity with intelligent job notifications"
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "description": "Track your application success and improve your strategy"
+      },
+      "networking": {
+        "title": "Professional Network",
+        "description": "Connect with recruiters and industry professionals"
+      }
+    }
+  },
+  "userAccess": {
+    "title": "Your Personal Career Assistant",
+    "subtitle": "Find your dream job faster with AI assistance",
+    "benefits": {
+      "cvScore": "CV Score",
+      "personalizedJobs": "Personalized job recommendations",
+      "instantFeedback": "Instant CV feedback",
+      "careerGuidance": "AI career guidance",
+      "applicationTracking": "Application tracking",
+      "skillsGap": "Skills gap analysis and recommendations",
+      "interviewPrep": "Interview preparation with mock interviews",
+      "realTimeAlerts": "Real-time job alerts and notifications",
+      "careerTracking": "Career growth tracking and insights"
+    },
+    "cta": "Start Your Journey"
+  },
+  "businessAccess": {
+    "title": "Hire Smarter, Not Harder",
+    "subtitle": "Hire top talent efficiently with AI-powered recruiting",
+    "benefits": {
+      "aiScreening": "AI-powered candidate screening",
+      "talentPool": "Access to qualified talent pool",
+      "hiring": "Faster hiring process",
+      "analytics": "Recruitment analytics",
+      "integration": "ATS integration",
+      "teamCollaboration": "Team collaboration tools",
+      "customWorkflows": "Custom hiring workflows",
+      "cvParsing": "Automated CV parsing and analysis"
+    },
+    "cta": "Request Demo",
+    "pipeline": {
+      "applied": "Applied",
+      "screening": "Screening",
+      "interview": "Interview",
+      "offer": "Offer"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Flexible pricing for individuals and businesses",
+    "description": "Choose the perfect plan for your needs. Upgrade or downgrade at any time.",
+    "userTitle": "For Job Seekers",
+    "businessTitle": "For Businesses",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "perMonth": "/month",
+    "mostPopular": "Most Popular",
+    "contactUs": "contact us",
+    "forever": "forever",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Perfect for getting started",
+        "features": ["5 job applications/month", "Basic CV analysis", "Job alerts", "Community support"]
+      },
+      "pro": {
+        "name": "Professional",
+        "description": "For serious job seekers",
+        "features": ["Unlimited applications", "Advanced CV optimization", "Priority support", "Career coaching", "Analytics dashboard"],
+        "cta": "Start Free Trial"
+      },
+      "business": {
+        "name": "Business",
+        "description": "For executives & specialists",
+        "features": ["Everything in Pro", "1-on-1 career coaching", "Executive profile optimization", "Salary negotiation support", "Personal brand building", "VIP recruiter access", "Industry insights reports"],
+        "cta": "Contact Sales"
+      },
+      "businessPlans": {
+        "starter": {
+          "name": "Starter",
+          "description": "For small teams",
+          "features": ["Up to 3 active job postings", "AI candidate screening", "Basic analytics", "Email support", "Up to 50 candidate reviews/month"],
+          "cta": "Start Trial"
+        },
+        "growth": {
+          "name": "Growth",
+          "description": "For growing companies",
+          "features": ["Everything in Starter", "Unlimited job postings", "Advanced analytics", "Team collaboration tools", "Priority support", "ATS integration", "Custom workflows", "Up to 500 candidate reviews/month"],
+          "cta": "Start Free Trial"
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "For large organizations",
+          "features": ["Everything in Growth", "Unlimited candidate reviews", "Dedicated account manager", "Custom integrations", "SLA guarantee", "Advanced security", "Training & onboarding", "White-label options"],
+          "cta": "Contact Sales"
+        }
+      }
+    },
+    "cta": "Get Started"
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "subtitle": "Join thousands of satisfied users",
+    "description": "See what our community has to say about their experience with AiiForsa.",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Software Engineer",
+        "content": "AiiForsa helped me land my dream job in just 2 weeks! The CV optimization was a game-changer.",
+        "rating": 5
+      },
+      {
+        "name": "Michael Chen",
+        "role": "HR Manager",
+        "content": "The AI screening saved us countless hours. We found the perfect candidates faster than ever.",
+        "rating": 5
+      },
+      {
+        "name": "Emily Davis",
+        "role": "Marketing Specialist",
+        "content": "The career advice feature gave me insights I never considered. Highly recommended!",
+        "rating": 5
+      }
+    ],
+    "trustBadges": {
+      "users": "Beta Testing Phase",
+      "companies": "Early Adopters Welcome",
+      "rating": "Actively Developing"
+    }
+  },
+  "finalCta": {
+    "title": "Ready to Transform Your Career?",
+    "subtitle": "Join thousands of professionals who found success with AiiForsa",
+    "primaryCta": "Get Started Free",
+    "secondaryCta": "Contact Sales"
+  },
+  "pricingCta": {
+    "disclaimer": "No credit card required • Start in minutes • Cancel anytime"
+  },
+  "footer": {
+    "tagline": "Empowering careers and businesses with AI-driven intelligence. Transform the way you find talent and opportunities.",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "forJobSeekers": "For Job Seekers",
+      "forBusinesses": "For Businesses",
+      "pricing": "Pricing",
+      "testimonials": "Testimonials"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "blog": "Blog",
+      "careers": "Careers",
+      "press": "Press",
+      "partners": "Partners"
+    },
+    "resources": {
+      "title": "Resources",
+      "documentation": "Documentation",
+      "helpCenter": "Help Center",
+      "apiReference": "API Reference",
+      "community": "Community",
+      "contactUs": "Contact Us"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "cookiePolicy": "Cookie Policy",
+      "gdpr": "GDPR"
+    },
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Get the latest updates and career tips",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    },
+    "social": {
+      "followUs": "Follow Us"
+    },
+    "copyright": "All rights reserved."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Contact Us",
+    "description": "Have questions about AiiForsa? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "successMessage": "Thank you for your message! We'll get back to you soon.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "company": "Company (Optional)",
+      "companyPlaceholder": "Your Company",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your needs...",
+      "submit": "Send Message"
+    }
+  }
+}

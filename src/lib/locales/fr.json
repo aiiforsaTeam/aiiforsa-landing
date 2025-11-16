@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "forUsers": "Pour les Utilisateurs",
+    "forBusiness": "Pour les Entreprises",
+    "pricing": "Tarifs",
+    "testimonials": "Témoignages",
+    "contact": "Contact"
+  },
+  "cta": {
+    "getStarted": "Commencer",
+    "dashboard": "Tableau de bord"
+  },
+  "announcement": {
+    "text": "🎉 Visitez-nous au CSTAM 2024 - Barceló Concorde Green Park Palace, Sousse - 23 novembre",
+    "cta": "En savoir plus"
+  },
+  "search": {
+    "placeholder": "Rechercher des emplois, des entreprises ou des compétences...",
+    "searching": "Recherche en cours..."
+  },
+  "hero": {
+    "title": "Transformez Votre Carrière avec l'IA",
+    "subtitle": "AiiForsa utilise l'IA avancée pour vous mettre en relation avec des opportunités d'emploi parfaites et aider les entreprises à trouver les meilleurs talents.",
+    "primaryCta": "Commencer Gratuitement",
+    "secondaryCta": "Réserver une Démo",
+    "badge": "Intelligence de Carrière Alimentée par l'IA",
+    "stats": {
+      "users": "Utilisateurs Bêta",
+      "matches": "Accès Anticipé",
+      "satisfaction": "En Développement"
+    }
+  },
+  "features": {
+    "title": "Fonctionnalités Puissantes pour Tous",
+    "subtitle": "Tout ce dont vous avez besoin pour réussir votre parcours professionnel",
+    "description": "Notre suite complète d'outils alimentés par l'IA vous aide à naviguer dans votre parcours professionnel avec confiance et précision.",
+    "items": {
+      "aiMatching": {
+        "title": "Correspondance par IA",
+        "description": "Notre IA analyse vos compétences et vous met en relation avec les opportunités parfaites"
+      },
+      "cvOptimization": {
+        "title": "Optimisation du CV",
+        "description": "Obtenez des commentaires en temps réel et des suggestions pour améliorer votre CV"
+      },
+      "careerAdvice": {
+        "title": "Conseils de Carrière",
+        "description": "Recevez des conseils de carrière personnalisés de notre conseiller IA"
+      },
+      "jobAlerts": {
+        "title": "Alertes Emploi Intelligentes",
+        "description": "Ne manquez jamais une opportunité avec des notifications d'emploi intelligentes"
+      },
+      "analytics": {
+        "title": "Analyses Avancées",
+        "description": "Suivez le succès de vos candidatures et améliorez votre stratégie"
+      },
+      "networking": {
+        "title": "Réseau Professionnel",
+        "description": "Connectez-vous avec des recruteurs et des professionnels du secteur"
+      }
+    }
+  },
+  "userAccess": {
+    "title": "Votre Assistant de Carrière Personnel",
+    "subtitle": "Trouvez l'emploi de vos rêves plus rapidement avec l'assistance IA",
+    "benefits": {
+      "cvScore": "Score CV",
+      "personalizedJobs": "Recommandations d'emploi personnalisées",
+      "instantFeedback": "Retour instantané sur le CV",
+      "careerGuidance": "Orientation de carrière IA",
+      "applicationTracking": "Suivi des candidatures",
+      "skillsGap": "Analyse des lacunes de compétences et recommandations",
+      "interviewPrep": "Préparation aux entretiens avec entretiens simulés",
+      "realTimeAlerts": "Alertes d'emploi en temps réel et notifications",
+      "careerTracking": "Suivi de la croissance professionnelle et insights"
+    },
+    "cta": "Commencez Votre Parcours"
+  },
+  "businessAccess": {
+    "title": "Recrutez Plus Intelligemment, Pas Plus Dur",
+    "subtitle": "Recrutez les meilleurs talents efficacement avec le recrutement IA",
+    "benefits": {
+      "aiScreening": "Sélection de candidats par IA",
+      "talentPool": "Accès au vivier de talents qualifiés",
+      "hiring": "Processus de recrutement plus rapide",
+      "analytics": "Analyses de recrutement",
+      "integration": "Intégration ATS",
+      "teamCollaboration": "Outils de collaboration d'équipe",
+      "customWorkflows": "Flux de recrutement personnalisés",
+      "cvParsing": "Analyse et parsing automatique des CV"
+    },
+    "cta": "Demander une Démo",
+    "pipeline": {
+      "applied": "Postulé",
+      "screening": "Sélection",
+      "interview": "Entretien",
+      "offer": "Offre"
+    }
+  },
+  "pricing": {
+    "title": "Choisissez Votre Plan",
+    "subtitle": "Tarification flexible pour les particuliers et les entreprises",
+    "description": "Choisissez le plan parfait pour vos besoins. Mettez à niveau ou rétrogradez à tout moment.",
+    "userTitle": "Pour les Chercheurs d'Emploi",
+    "businessTitle": "Pour les Entreprises",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "perMonth": "/mois",
+    "mostPopular": "Le Plus Populaire",
+    "contactUs": "contactez-nous",
+    "forever": "pour toujours",
+    "plans": {
+      "free": {
+        "name": "Gratuit",
+        "description": "Parfait pour commencer",
+        "features": ["5 candidatures/mois", "Analyse CV de base", "Alertes emploi", "Support communautaire"]
+      },
+      "pro": {
+        "name": "Professionnel",
+        "description": "Pour les chercheurs d'emploi sérieux",
+        "features": ["Candidatures illimitées", "Optimisation CV avancée", "Support prioritaire", "Coaching de carrière", "Tableau de bord analytique"],
+        "cta": "Commencer l'Essai Gratuit"
+      },
+      "business": {
+        "name": "Entreprise",
+        "description": "Pour les cadres et spécialistes",
+        "features": ["Tout dans Pro", "Coaching de carrière individuel", "Optimisation du profil exécutif", "Support de négociation salariale", "Construction de marque personnelle", "Accès recruteurs VIP", "Rapports d'insights sectoriels"],
+        "cta": "Contacter les Ventes"
+      },
+      "businessPlans": {
+        "starter": {
+          "name": "Débutant",
+          "description": "Pour les petites équipes",
+          "features": ["Jusqu'à 3 offres d'emploi actives", "Sélection de candidats IA", "Analyses de base", "Support par email", "Jusqu'à 50 évaluations de candidats/mois"],
+          "cta": "Commencer l'Essai"
+        },
+        "growth": {
+          "name": "Croissance",
+          "description": "Pour les entreprises en croissance",
+          "features": ["Tout dans Débutant", "Offres d'emploi illimitées", "Analyses avancées", "Outils de collaboration d'équipe", "Support prioritaire", "Intégration ATS", "Flux de travail personnalisés", "Jusqu'à 500 évaluations de candidats/mois"],
+          "cta": "Commencer l'Essai Gratuit"
+        },
+        "enterprise": {
+          "name": "Entreprise",
+          "description": "Pour les grandes organisations",
+          "features": ["Tout dans Croissance", "Évaluations de candidats illimitées", "Gestionnaire de compte dédié", "Intégrations personnalisées", "Garantie SLA", "Sécurité avancée", "Formation et intégration", "Options de marque blanche"],
+          "cta": "Contacter les Ventes"
+        }
+      }
+    },
+    "cta": "Commencer"
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Utilisateurs",
+    "subtitle": "Rejoignez des milliers d'utilisateurs satisfaits",
+    "description": "Découvrez ce que notre communauté dit de son expérience avec AiiForsa.",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Ingénieure Logiciel",
+        "content": "AiiForsa m'a aidé à décrocher l'emploi de mes rêves en seulement 2 semaines ! L'optimisation du CV a tout changé.",
+        "rating": 5
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Responsable RH",
+        "content": "La sélection IA nous a fait gagner d'innombrables heures. Nous avons trouvé les candidats parfaits plus rapidement que jamais.",
+        "rating": 5
+      },
+      {
+        "name": "Emily Davis",
+        "role": "Spécialiste Marketing",
+        "content": "La fonction de conseils de carrière m'a donné des perspectives que je n'avais jamais envisagées. Hautement recommandé !",
+        "rating": 5
+      }
+    ],
+    "trustBadges": {
+      "users": "Phase de Test Bêta",
+      "companies": "Premiers Adoptants Bienvenus",
+      "rating": "En Développement Actif"
+    }
+  },
+  "finalCta": {
+    "title": "Prêt à Transformer Votre Carrière ?",
+    "subtitle": "Rejoignez des milliers de professionnels qui ont trouvé le succès avec AiiForsa",
+    "primaryCta": "Commencer Gratuitement",
+    "secondaryCta": "Contacter les Ventes"
+  },
+  "pricingCta": {
+    "disclaimer": "Aucune carte de crédit requise • Commencez en quelques minutes • Annulez à tout moment"
+  },
+  "footer": {
+    "tagline": "Autonomiser les carrières et les entreprises avec l'intelligence alimentée par l'IA. Transformez la façon dont vous trouvez des talents et des opportunités.",
+    "product": {
+      "title": "Produit",
+      "features": "Fonctionnalités",
+      "forJobSeekers": "Pour les chercheurs d'emploi",
+      "forBusinesses": "Pour les entreprises",
+      "pricing": "Tarifs",
+      "testimonials": "Témoignages"
+    },
+    "company": {
+      "title": "Entreprise",
+      "about": "À propos",
+      "blog": "Blog",
+      "careers": "Carrières",
+      "press": "Presse",
+      "partners": "Partenaires"
+    },
+    "resources": {
+      "title": "Ressources",
+      "documentation": "Documentation",
+      "helpCenter": "Centre d'aide",
+      "apiReference": "Référence API",
+      "community": "Communauté",
+      "contactUs": "Nous contacter"
+    },
+    "legal": {
+      "title": "Légal",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfService": "Conditions d'utilisation",
+      "cookiePolicy": "Politique des cookies",
+      "gdpr": "RGPD"
+    },
+    "newsletter": {
+      "title": "Restez Informé",
+      "description": "Recevez les dernières mises à jour et conseils de carrière",
+      "placeholder": "Entrez votre email",
+      "button": "S'abonner"
+    },
+    "social": {
+      "followUs": "Suivez-nous"
+    },
+    "copyright": "Tous droits réservés."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Contact",
+    "description": "Vous avez des questions sur AiiForsa ? Nous serions ravis de vous entendre. Envoyez-nous un message et nous vous répondrons dès que possible.",
+    "successMessage": "Merci pour votre message ! Nous vous répondrons bientôt.",
+    "form": {
+      "name": "Nom Complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse Email",
+      "emailPlaceholder": "jean@exemple.com",
+      "company": "Entreprise (Optionnel)",
+      "companyPlaceholder": "Votre Entreprise",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de vos besoins...",
+      "submit": "Envoyer le Message"
+    }
+  }
+}
