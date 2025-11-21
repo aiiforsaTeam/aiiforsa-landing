@@ -77,7 +77,7 @@ export default function Header() {
           <div className="relative max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-center gap-4">
             <p className={isRTL ? 'text-right' : ''}>
               🚀 <strong className="font-bold">{t.announcement.text.split(':')[0]}:</strong> {t.announcement.text.split(':')[1]}
-              <Link href="/beta" className="ml-2 underline hover:no-underline font-semibold">
+              <Link href="https://cstam.ieee.tn" className="ml-2 underline hover:no-underline font-semibold">
                 {t.announcement.cta} →
               </Link>
             </p>
